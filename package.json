@@ -1,0 +1,21 @@
+{
+  "name": "quiz-mvp",
+  "version": "1.0.0",
+  "description": "MVP веб-приложения для проведения квизов в реальном времени.",
+  "main": "server/server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": [
+    "quiz",
+    "websocket",
+    "nodejs",
+    "mvp"
+  ],
+  "author": "Daria Astafyeva",
+  "license": "MIT"
+}
